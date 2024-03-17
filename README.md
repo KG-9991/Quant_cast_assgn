@@ -2,7 +2,7 @@
 
 ## This repo consists of Python script to fetch the most active cookie for the day along with the test file
 
-1. This repo also consists of two CSV files used for running the main script and test file. Can be be replaced by any other csv file for the main script. But make sure data follows the format "cookie,timestamp". Timestamp should be in UTC time zone. Ensure that both the Python scripts and CSV files are located within the same folder before running the script. In case they are not, kindly specify the appropriate paths (rather than just the file name) for execution before proceeding.
+1. This repo also consists of two CSV files used for running the main script and test file. Can be replaced by any other CSV file for the main script. But make sure data follows the format "cookie,timestamp". Timestamp should be in UTC time zone. Ensure that both the Python scripts and CSV files are located within the same folder before running the script. In case they are not, kindly specify the appropriate paths (rather than just the file name) for execution before proceeding.
 
 2. To run the main script, please use the following command:
 
